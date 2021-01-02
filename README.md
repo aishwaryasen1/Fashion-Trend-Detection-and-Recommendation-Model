@@ -1,0 +1,1 @@
+# Fashion-Trend-Detection-and-Recommendation-Model
